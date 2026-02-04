@@ -1,0 +1,22 @@
+2026/02/04-09:47:25.965 3ac Reusing MANIFEST C:\Users\jbahaa\AppData\Local\Temp\flutter_tools.e7fd788\flutter_tools_chrome_device.7cc4082\Default\shared_proto_db/MANIFEST-000001
+2026/02/04-09:47:25.966 3ac Recovering log #16
+2026/02/04-09:47:25.968 3ac Reusing old log C:\Users\jbahaa\AppData\Local\Temp\flutter_tools.e7fd788\flutter_tools_chrome_device.7cc4082\Default\shared_proto_db/000016.log 
+2026/02/04-09:47:25.968 3ac Delete type=0 #3
+2026/02/04-09:47:25.969 3ac Delete type=0 #4
+2026/02/04-09:47:25.969 3ac Delete type=0 #7
+2026/02/04-09:47:25.969 3ac Delete type=0 #10
+2026/02/04-09:47:25.969 3ac Delete type=0 #13
+2026/02/04-10:13:53.688 d9c Compacting 3@0 + 1@1 files
+2026/02/04-10:13:53.700 d9c Generated table #19@0: 561 keys, 105478 bytes
+2026/02/04-10:13:53.700 d9c Compacted 3@0 + 1@1 files => 105478 bytes
+2026/02/04-10:13:53.702 d9c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/04-10:13:53.703 d9c Delete type=2 #8
+2026/02/04-10:13:53.703 d9c Delete type=2 #11
+2026/02/04-10:13:53.703 d9c Delete type=2 #14
+2026/02/04-10:13:53.703 d9c Delete type=2 #17
+2026/02/04-10:16:50.604 d9c Compacting 1@1 + 1@2 files
+2026/02/04-10:16:50.616 d9c Generated table #20@1: 470 keys, 107223 bytes
+2026/02/04-10:16:50.617 d9c Compacted 1@1 + 1@2 files => 107223 bytes
+2026/02/04-10:16:50.617 d9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/04-10:16:50.618 d9c Delete type=2 #5
+2026/02/04-10:16:50.618 d9c Delete type=2 #19
